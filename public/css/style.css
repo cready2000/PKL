@@ -1,0 +1,53 @@
+.gambar {
+  width: 150px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.home {
+  width: 500px;
+  height: 250px;
+  padding: 20px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -120px;
+  margin-left: -250px;
+  text-align: center;
+  vertical-align: middle;
+  border: 50px solid rgba(0, 0, 0, 0.2);
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact {
+  width: 150px;
+}
+
+.about {
+  width: 500px;
+  height: 250px;
+  padding: 20px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -120px;
+  margin-left: -250px;
+  text-align: center;
+  vertical-align: middle;
+  border: 50px solid rgba(0, 0, 0, 0.9);
+}
+
+.card {
+  background-color: rgb(37, 37, 37);
+  color: white;
+}
+
+.card h6 {
+  color: white;
+}
